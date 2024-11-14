@@ -1,0 +1,21 @@
+
+# Visual Code Studio specific files
+.vscode
+
+# Directories to ignore
+_*/
+
+# Private or sensitive information
+private/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.trash
+ehthumbs.db
+Thumbs.db
+
+# Don't ignore
+
