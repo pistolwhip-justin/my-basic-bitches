@@ -1,11 +1,23 @@
-
-# Visual Code Studio specific files
-.vscode
+# Obsidian specific files
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
 
 # Directories to ignore
 _*/
 
 # Private or sensitive information
+Private/
+Personal/
+Confidential/
+Secrets/
+*.key
+*.pem
+*password*
+*secret*
+*credential*
 private/
 
 # OS files
@@ -17,5 +29,27 @@ private/
 ehthumbs.db
 Thumbs.db
 
-# Don't ignore
+# Ignore Smart Environment folder
+.smart-env
 
+#Smart Connect Directories and files
+smart-chats/
+
+# Don't ignore
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/config
+!.obsidian/core-plugins.json
+!.obsidian/community-plugins.json
+!.obsidian/hotkeys.json
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
+
+
+
+# Ignore Smart Environment folder
+.smart-env
