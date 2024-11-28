@@ -36,9 +36,15 @@ Contributions are welcome! Please read our contributing guidelines before submit
 
 See [CHANGELOG.md](CHANGELOG.md) for a list of changes and version history.
 
-## License
+## 📜 License
 
-This project is licensed under the WTFPL License - see the [LICENSE](../../LICENSE.md) file for details.
+<a href="http://www.wtfpl.net/"><img
+       src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png"
+       width="88" height="31" alt="WTFPL" /></a>
+
+This repository is licensed under the [DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE](http://www.wtfpl.net/)
+
+  ![license image](choose-freedom.png)
 
 ## Support
 
