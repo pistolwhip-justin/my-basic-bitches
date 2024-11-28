@@ -1,43 +1,32 @@
 # My Basic Bitches - General
 
-A general-purpose collection of basic utilities and components.
+![Build Status](https://img.shields.io/github/license/pistolwhip-justin/pistolwhip-justin.svg)
+
+Yo, this is a template.
 
 ## Description
 
-This repository contains common utilities and components that can be reused across different projects. It serves as a foundation for building larger applications by providing basic, well-tested functionality.
+This repository contains some stuff.
 
 ## Getting Started
 
 ### Prerequisites
 
-- List any prerequisites here
-- Add specific versions if required
-
 ### Installation
 
 ```bash
-# Add installation steps here
-npm install
-# or
-yarn install
 ```
 
 ## Usage
 
-```javascript
-// Add usage examples here
-const { utility } = require('my-basic-bitches');
+```
 ```
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
-
 ## Documentation
 
-Detailed documentation for each component and utility can be found in the `docs` directory.
+Detailed documentation can be found in the `docs` directory.
 
 ## Contributing
 
@@ -56,6 +45,3 @@ This project is licensed under the WTFPL License - see the [LICENSE](../../LICEN
 For support, please open an issue in the repository.
 
 ## Acknowledgments
-
-- List any acknowledgments here
-- Credit external resources or inspiration
